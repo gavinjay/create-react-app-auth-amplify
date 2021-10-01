@@ -1,6 +1,6 @@
 {
-    "projectName": "authcra",
-    "version": "1.0",
+    "projectName": "s3fileupload",
+    "version": "3.0",
     "frontend": "javascript",
     "javascript": {
         "framework": "react",
