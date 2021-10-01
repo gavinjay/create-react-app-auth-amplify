@@ -60,13 +60,13 @@ const App = () => {
       />
       <div className='header'>
         <h2>
-          <a href='/'>BigLog Inc. Team Video Uploader</a>
+          <a href='/'>BigLog Inc. Team Uploader</a>
         </h2>
       </div>
       <div className='video-uploader'>
         <form onSubmit={(e) => onSubmit(e)}>
           <p>
-            <label className='select-label'>Select video: </label>
+            <label className='select-label'>Select file: </label>
           </p>
           <p>
             <input
