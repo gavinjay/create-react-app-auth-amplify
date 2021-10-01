@@ -60,7 +60,7 @@ const App = () => {
       />
       <div className='header'>
         <h2>
-          <a href='/'>TCS Team Video Uploader</a>
+          <a href='/'>BigLog Inc. Team Video Uploader</a>
         </h2>
       </div>
       <div className='video-uploader'>
